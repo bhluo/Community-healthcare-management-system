@@ -1,6 +1,6 @@
 #### 社区医疗信息管理系统
 
-这是一个使用Qt语言开发的社区医疗信息管理系统，同级目录下Lab4a.db文件为系统打包成可执行文件的数据库。Runnable File文件下的clickme.exe即可双击运行。源代码SourceCode文件夹中。
+这是一个使用Qt语言开发的社区医疗信息管理系统，同级目录下Lab4a.db文件为系统打包成可执行文件的数据库。Runnable File文件下的clickme.exe即可双击运行。源代码在SourceCode文件夹中。
 
 #### 可执行文件的登录密码：
 
